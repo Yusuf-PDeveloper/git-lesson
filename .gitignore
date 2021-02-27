@@ -1,3 +1,5 @@
 venv/
 .idea/
 main.py
+errors.txt
+frontend/scripts.js
